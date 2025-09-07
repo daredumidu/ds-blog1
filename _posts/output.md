@@ -1,4 +1,4 @@
-**How can the business network be secured?**
+**_How can the business network be secured?_**
 
 1.  **Secure and harden network intermediate devices.**
 
@@ -129,3 +129,4 @@ https://securitytoday.com/articles/2019/08/05/10-simple-steps-to-take-right-now-
 https://www.cryptomathic.com/news-events/blog/key-management-system-server-and-device-hardening
 
 https://www.cloud24x7.us/works/device-hardening/
+
