@@ -14,8 +14,6 @@ Enable Logging and auditing. Running activity reports of the devices to detect u
 
 Ensure that device is configured to use Secure Protocols. SSH rather than telnet connections.
 
-
-
 ## 2. Secure network perimeter and internal network communication.
 
 - Use VLAN techniques segregate the internal network.
@@ -122,6 +120,7 @@ https://securitytoday.com/articles/2019/08/05/10-simple-steps-to-take-right-now-
 https://www.cryptomathic.com/news-events/blog/key-management-system-server-and-device-hardening
 
 https://www.cloud24x7.us/works/device-hardening/
+
 
 
 
