@@ -22,8 +22,7 @@ Ensure that device is configured to use Secure Protocols. SSH rather than telnet
 - Implement a firewall to control traffic among networks.
 - Implement IPS / IDS to detect and block malicious traffic at the perimeter.
 
-3.  **Limit the number of IPs assigned by DHCP or disable the feature
-    entirely.**
+## 3. Limit the number of IPs assigned by DHCP or disable the feature entirely.
 
 4.  **Encrypt the DNS queries.**
 
@@ -120,6 +119,7 @@ https://securitytoday.com/articles/2019/08/05/10-simple-steps-to-take-right-now-
 https://www.cryptomathic.com/news-events/blog/key-management-system-server-and-device-hardening
 
 https://www.cloud24x7.us/works/device-hardening/
+
 
 
 
