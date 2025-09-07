@@ -16,19 +16,13 @@ Ensure that device is configured to use Secure Protocols. SSH rather than telnet
 
 
 
-## 2. Secure network perimeter and internal network communication.**
+## 2. Secure network perimeter and internal network communication.
 
-Use VLAN techniques segregate the internal network.
-
-Have a DMZ network to place the web server or other services accessed by
-outsiders.
-
-Micro segment the network in datacenter.
-
-Implement a firewall to control traffic among networks.
-
-Implement IPS / IDS to detect and block malicious traffic at the
-perimeter.
+- Use VLAN techniques segregate the internal network.
+- Have a DMZ network to place the web server or other services accessed by outsiders.
+- Micro segment the network in datacenter.
+- Implement a firewall to control traffic among networks.
+- Implement IPS / IDS to detect and block malicious traffic at the perimeter.
 
 3.  **Limit the number of IPs assigned by DHCP or disable the feature
     entirely.**
@@ -128,6 +122,7 @@ https://securitytoday.com/articles/2019/08/05/10-simple-steps-to-take-right-now-
 https://www.cryptomathic.com/news-events/blog/key-management-system-server-and-device-hardening
 
 https://www.cloud24x7.us/works/device-hardening/
+
 
 
 
