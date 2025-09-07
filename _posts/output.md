@@ -3,17 +3,12 @@
 ## 1. Secure and harden network intermediate devices.
 
 Change default settings before deploying on production network.
-
 Update firmware to the latest update before deploying the device into
 the production network.
-
 Remove all non-essential services and programs. Close all unused ports.
-
 Implement "Least Privilege" on user accounts and limit the users.
-
 Enable Logging and auditing. Running activity reports of the devices to
 detect unusual activities. Eg: failed login attempts.
-
 Ensure that device is configured to use Secure Protocols. SSH rather
 than telnet connections.
 
@@ -130,6 +125,7 @@ https://securitytoday.com/articles/2019/08/05/10-simple-steps-to-take-right-now-
 https://www.cryptomathic.com/news-events/blog/key-management-system-server-and-device-hardening
 
 https://www.cloud24x7.us/works/device-hardening/
+
 
 
 
