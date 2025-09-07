@@ -100,7 +100,7 @@ Actively Testing Your Employees by Creating Fake Phishing Emails.
 Implementing IT security policies on Strong Password Guidelines and
 acceptable use of internet based resources.
 
-**Reference:**
+## Reference:
 
 https://tdwi.org/articles/2019/04/23/dwt-all-9-ways-to-make-your-company-network-secure.aspx
 
@@ -119,6 +119,7 @@ https://securitytoday.com/articles/2019/08/05/10-simple-steps-to-take-right-now-
 https://www.cryptomathic.com/news-events/blog/key-management-system-server-and-device-hardening
 
 https://www.cloud24x7.us/works/device-hardening/
+
 
 
 
